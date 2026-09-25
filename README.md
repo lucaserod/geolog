@@ -37,7 +37,7 @@ Os dados transacionais e cadastrais (motoristas e veículos) são armazenados em
 
 Clone o repositório e acesse a pasta do projeto:
 ```bash
-git clone https://github.com/SEU_USUARIO/geolog.git
+git clone https://github.com/lucaserod/geolog.git
 cd geolog
 ```
 
