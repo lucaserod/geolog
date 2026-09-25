@@ -1,0 +1,29 @@
+# Ambientes Virtuais (MUITO IMPORTANTE)
+.venv/
+venv/
+env/
+
+# Senhas e Variáveis de Ambiente (MUITO IMPORTANTE)
+.env
+.env.local
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações de Editores de Código (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Arquivos de log e testes
+*.log
+.pytest_cache/
+
+# Banco de dados local
+*.db
