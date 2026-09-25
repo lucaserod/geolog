@@ -68,7 +68,7 @@ A aplicação abrirá automaticamente no seu navegador no endereço `http://loca
 
 ## 👥 Equipe de Desenvolvimento
 
-Projeto desenvolvido para a disciplina de Tópicos Avançados em Banco de Dados / Arquitetura de Software (UNIPÊ).
+Projeto desenvolvido para a disciplina de Implementação e Gerenciamento de Bancos de Dados NoSQL / Arquitetura de Software (UNIPÊ).
 
 * **Lucas Espindola Rodrigues** - Desenvolvedor
 * **Maihrendson Cauã de Carvalho Cassiano** - Desenvolvedor
